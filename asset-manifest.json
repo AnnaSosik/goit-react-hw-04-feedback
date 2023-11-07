@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AnnaSosik/goit-react-hw-02-feedback/static/css/main.707f97a2.css",
+    "main.js": "/AnnaSosik/goit-react-hw-02-feedback/static/js/main.21434a29.js",
+    "static/media/polar-lights-5858656_1280.jpg": "/AnnaSosik/goit-react-hw-02-feedback/static/media/polar-lights-5858656_1280.ec1a6d070e7576ab66da.jpg",
+    "index.html": "/AnnaSosik/goit-react-hw-02-feedback/index.html",
+    "main.707f97a2.css.map": "/AnnaSosik/goit-react-hw-02-feedback/static/css/main.707f97a2.css.map",
+    "main.21434a29.js.map": "/AnnaSosik/goit-react-hw-02-feedback/static/js/main.21434a29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707f97a2.css",
+    "static/js/main.21434a29.js"
+  ]
+}
